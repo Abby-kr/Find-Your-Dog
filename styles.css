@@ -7,6 +7,10 @@
 }
 body{
     font-family: montserrat;
+    background-image: url('https://static.vecteezy.com/system/resources/previews/004/672/811/original/light-blue-soft-background-with-diagonal-lines-free-vector.jpg');
+    /* background-image: url('https://c0.wallpaperflare.com/preview/989/402/393/soft-white-blue-sky.jpg'); */
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .navbar{
     display: flex;
@@ -42,4 +46,31 @@ nav ul li a{
 a.active,a:hover{
     background: midnightblue;
     transition: .5s;
+}
+#home{
+    text-align: center;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    padding: 100px;
+    margin: 50px;
+}
+#home p{
+    margin: 30px;
+}
+#getstarted{
+        background-color: #1c87c9;
+        border: none;
+        border-radius: 20px;
+        color: white;
+        padding: 20px 34px;
+        text-decoration: none;
+        /* display: inline-block; */
+        font-size: 30px;
+        margin: 4px 2px;
+        cursor: pointer;
+}
+#getstarted:hover{
+    transition: .5s;
+    background-color: aqua;
 }
