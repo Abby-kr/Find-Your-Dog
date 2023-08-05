@@ -1,0 +1,124 @@
+{
+    "dogs":[      
+        {
+            "id":1,
+            "name":"German Shepherd",
+            "image":"https://images.saymedia-content.com/.image/t_share/MTk2NzIzMTQ2NzMxMTAzMjUw/11-dogs-like-german-shepherd.png" ,
+            "height":"55 - 50cm(22 - 26 in)",
+            "weight":"22 - 32kg(49 - 88 lb)",
+            "lifespan":"9 - 13 years",
+            "description":"The German Shepherd Dog is a large, agile, muscular dog of noble character and high intelligence.It has been used in many other types of work, including disability assistance, search-and-rescue, police work, and warfare. It is commonly kept as a companion dog.",
+            "likes":0
+          },
+          {
+            "id":2,
+            "name":"Rottweiler",
+            "image":"https://images.pexels.com/photos/12111334/pexels-photo-12111334.jpeg?cs=srgb&dl=pexels-mer-ouane-12111334.jpg&fm=jpg",
+            "height":"56 to 69cm(22 to 25 in)",
+            "weight":"35 - 60kg(77 - 132 lb)",
+            "lifespan":"8 - 10 years",
+            "description":"The Rottweiler is a breed of domestic dog, regarded as medium-to-large or large.Rottweilers are now also used as search and rescue dogs, guard dogs, and police dogs.",
+            "likes":0
+          },
+          {
+            "id":3,
+            "name":"Siberian Husky",
+            "image":"https://media.istockphoto.com/id/628087738/photo/portrait-of-siberian-husky.jpg?s=612x612&w=0&k=20&c=Q0sbVEuN9iXC5Un8_V37ST7P26cKeTZAvIDl7ELMD8g=",
+            "height":"51 to 60cm(20 to 23.5 in)",
+            "weight":"16 - 27kg(35 - 60 lb)",
+            "lifespan":"12 - 14 years",
+            "description":"The Siberian Husky is a medium-sized working sled dog breed.The Siberian Husky is typically kept as a house pet, though they are still frequently used as sled dogs by competitive and recreational mushers. ",
+            "likes":0
+          },
+          {
+            "id":4,
+            "name":"Doberman",
+            "image":"https://post.bark.co/wp-content/uploads/2022/05/iStock-1223511966.jpg",
+            "height":"63 to 72cm(25 - 28 in)",
+            "weight":"32 - 45g(71 - 99 lb)",
+            "lifespan":"9 - 12 years",
+            "description":"The Dobermann, or Doberman Pinscher in the U.S. and Canada, is a medium-large breed of domestic dog.Dobermanns are known to be intelligent, alert, and tenaciously loyal companions and guard dogs.",
+            "likes":0
+          },
+          {
+            "id":5,
+            "name":"Bulldog",
+            "image":"https://www.akc.org/wp-content/uploads/2017/11/Bulldog-standing-in-the-grass.jpg",
+            "height":"30 to 61cm(12 - 24 in)",
+            "weight":"18 - 25 kgs(40 - 55 lb)",
+            "lifespan":"3 - 12 yrs",
+            "description":"Also know as the English Bulldog or British Bulldog,The Bulldog is a British breed of dog of mastiff type.It is a medium-sized, muscular dog commonly kept as pets.",
+            "likes":0
+          },
+          {
+            "id":6,
+            "name":"Golden Retriever",
+            "image":"https://highlandcanine.com/wp-content/uploads/2020/09/golden-retriever-in-field-of-flowers.jpg",
+            "height":"51 to 61cm(20 - 24 in)",
+            "weight":"25 - 34 kg(55 - 75 lb)",
+            "lifespan":"12 - 13 years",
+            "description":"The Golden Retriever is a Scottish breed of retriever dog of medium size.Golden Retrievers are outgoing, trustworthy, and eager-to-please family dogs, and relatively easy to train.These energetic, powerful gundogs enjoy outdoor play.",
+            "likes":0
+          },
+          {
+            "id":7,
+            "name":"Labrador Retriever",
+            "image":"https://www.dogster.com/wp-content/uploads/2022/12/Labrador-retriever1_1163331995.jpg.optimal.jpg",
+            "height":"46 to 56cm(18 to 22 in)",
+            "weight":"25 - 36 kg(55 - 80 lb)",
+            "lifespan":"10 - 12 years",
+            "description":"The Labrador Retriever, or simply Labrador, is a British breed of retriever gun dog.The Labrador is friendly, energetic, and playful.It was bred as a sporting and hunting dog but is widely kept as a companion dog. It may also be trained as a guide or assistance dog, or for rescue or therapy work.",
+            "likes":0
+          },
+          {
+            "id":8,
+            "name":"Alaskan Malamute",
+            "image":"https://cdn.britannica.com/02/236302-050-E1F61BB1/Alaskan-Malamute-sled-dog.jpg",
+            "description":"The Alaskan Malamut is a large breed of dog that was originally bred for its strength and endurance, to haul heavy freight as a sled dog, and as a hound.Malamutes are very fond of people, a trait that makes them particularly sought-after family dogs, but unreliable watchdogs as they do not tend to bark.",
+            "height":"46 to 56cm(18 to 22 in)",
+            "weight":"34 - 38kgs(75 - 84lb)",
+            "lifespan":"10 - 14years",
+            "likes":0
+          },
+          {
+            "id":9,
+            "name":"Chihuahua",
+            "image":"https://dogacademy.org/blog/wp-content/uploads/2022/05/Small-light-brown-Chihuahua-happily-running-outside.jpg",
+            "description":"The Chihuahua (Chihuahueño) is a Mexican breed of toy dog. It is named for the Mexican state of Chihuahua and is among the smallest of all dog breeds.It is usually kept as a companion animal or for showing.",
+            "height":"8 to 23cm(3 to 9 in)",
+            "weight":"1 - 3kg(2 - 7 lb)",
+            "lifespan":"12 years or more",
+            "likes":0
+          },
+          {
+            "id":10,
+            "name":"Dachshund",
+            "image":"https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTbX4kyAKSWkOT_amdu2gC9C2RKjaE6ZQrnLOpK1XSNy41NC0cSZw6eVVBW4lPAAJe_YcF2UAvDhp8pQxc",
+            "height":"46 to 56cm(18 to 22 in)",
+            "weight":"7 - 14 kg(16 - 32 lb)",
+            "lifespan":"12 - 16 years",
+            "description":"The dachshund  also known as the wiener dog, badger dog, doxie, and sausage dog, is a short-legged, long-bodied, hound-type dog breed.The dachshund was bred to scent, chase, and flush out badgers and other burrow-dwelling animals.They are rated in the intelligence of dogs as an average working dog with a persistent ability to follow trained commands 50% of the time or more.",
+            "likes":0
+          },
+          {
+            "id":11,
+            "name":"Samoyed",
+            "height":"46 to 56cm(18 to 22 in)",
+            "weight":"16 - 30kg(18 - 22 in)",
+            "lifespan":"12 - 14 years",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZJZJjhoHkNhOGEJbL8addy0YI6D39kPbwhg&usqp=CAU",
+            "description":"The Samoyed is a breed of medium-sized herding dogs with thick, white, double-layer coats.They are known to be used in expeditions in both Arctic and Antarctic regions and have a friendly and agreeable disposition.",
+            "likes":0
+          },
+          {
+            "id":12,
+            "name":"Shiba Inu",
+            "image":"https://media-be.chewy.com/wp-content/uploads/2021/05/27135654/Shiba-Inu_FeaturedImage-1024x615.jpg",
+            "height":"33 to 43cm(13 to 17 in)",
+            "weight":"8 - 10 kg(18 22 lb)",
+            "lifespan":"3 - 16 years",
+            "description":"The Shiba Inu  is a breed of hunting dog from Japan.A small, alert, and agile dog that copes very well with mountainous terrain and hiking trails, the Shiba Inu was originally bred for hunting. ",
+            "likes":0
+          }
+        ]
+}
