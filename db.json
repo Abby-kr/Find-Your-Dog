@@ -3,7 +3,7 @@
         {
             "id":1,
             "name":"German Shepherd",
-            "image":"https://images.saymedia-content.com/.image/t_share/MTk2NzIzMTQ2NzMxMTAzMjUw/11-dogs-like-german-shepherd.png" ,
+            "image_url":"https://images.saymedia-content.com/.image/t_share/MTk2NzIzMTQ2NzMxMTAzMjUw/11-dogs-like-german-shepherd.png" ,
             "description":[
               "height:55 - 50cm(22 - 26 in)",
               "weight:22 - 32kg(49 - 88 lb)",
@@ -15,7 +15,7 @@
           {
             "id":2,
             "name":"Rottweiler",
-            "image":"https://images.pexels.com/photos/12111334/pexels-photo-12111334.jpeg?cs=srgb&dl=pexels-mer-ouane-12111334.jpg&fm=jpg",
+            "image_url":"https://images.pexels.com/photos/12111334/pexels-photo-12111334.jpeg?cs=srgb&dl=pexels-mer-ouane-12111334.jpg&fm=jpg",
             "description":[
               "height:56 to 69cm(22 to 25 in)",
               "weight:35 - 60kg(77 - 132 lb)",
@@ -27,7 +27,7 @@
           {
             "id":3,
             "name":"Siberian Husky",
-            "image":"https://media.istockphoto.com/id/628087738/photo/portrait-of-siberian-husky.jpg?s=612x612&w=0&k=20&c=Q0sbVEuN9iXC5Un8_V37ST7P26cKeTZAvIDl7ELMD8g=",
+            "image_url":"https://media.istockphoto.com/id/628087738/photo/portrait-of-siberian-husky.jpg?s=612x612&w=0&k=20&c=Q0sbVEuN9iXC5Un8_V37ST7P26cKeTZAvIDl7ELMD8g=",
             "description":[
             "height:51 to 60cm(20 to 23.5 in)",
             "weight:16 - 27kg(35 - 60 lb)",
@@ -39,7 +39,7 @@
           {
             "id":4,
             "name":"Doberman",
-            "image":"https://post.bark.co/wp-content/uploads/2022/05/iStock-1223511966.jpg",
+            "image_url":"https://post.bark.co/wp-content/uploads/2022/05/iStock-1223511966.jpg",
             "description":[
             "height:63 to 72cm(25 - 28 in)",
             "weight:32 - 45g(71 - 99 lb)",
@@ -51,7 +51,7 @@
           {
             "id":5,
             "name":"Bulldog",
-            "image":"https://www.akc.org/wp-content/uploads/2017/11/Bulldog-standing-in-the-grass.jpg",
+            "image_url":"https://www.akc.org/wp-content/uploads/2017/11/Bulldog-standing-in-the-grass.jpg",
             "description":[
             "height:30 to 61cm(12 - 24 in)",
             "weight:18 - 25 kgs(40 - 55 lb)",
@@ -63,7 +63,7 @@
           {
             "id":6,
             "name":"Golden Retriever",
-            "image":"https://highlandcanine.com/wp-content/uploads/2020/09/golden-retriever-in-field-of-flowers.jpg",
+            "image_url":"https://highlandcanine.com/wp-content/uploads/2020/09/golden-retriever-in-field-of-flowers.jpg",
             "description":[
             "height:51 to 61cm(20 - 24 in)",
             "weight:25 - 34 kg(55 - 75 lb)",
@@ -75,7 +75,7 @@
           {
             "id":7,
             "name":"Labrador Retriever",
-            "image":"https://www.dogster.com/wp-content/uploads/2022/12/Labrador-retriever1_1163331995.jpg.optimal.jpg",
+            "image_url":"https://www.dogster.com/wp-content/uploads/2022/12/Labrador-retriever1_1163331995.jpg.optimal.jpg",
             "description":[
             "height:46 to 56cm(18 to 22 in)",
             "weight:25 - 36 kg(55 - 80 lb)",
@@ -87,7 +87,7 @@
           {
             "id":8,
             "name":"Alaskan Malamute",
-            "image":"https://cdn.britannica.com/02/236302-050-E1F61BB1/Alaskan-Malamute-sled-dog.jpg",
+            "image_url":"https://cdn.britannica.com/02/236302-050-E1F61BB1/Alaskan-Malamute-sled-dog.jpg",
             "description":[
               "height:46 to 56cm(18 to 22 in)",
               "weight:34 - 38kgs(75 - 84lb)",
@@ -99,7 +99,7 @@
           {
             "id":9,
             "name":"Chihuahua",
-            "image":"https://dogacademy.org/blog/wp-content/uploads/2022/05/Small-light-brown-Chihuahua-happily-running-outside.jpg",
+            "image_url":"https://dogacademy.org/blog/wp-content/uploads/2022/05/Small-light-brown-Chihuahua-happily-running-outside.jpg",
             "description":[
               "height:8 to 23cm(3 to 9 in)",
               "weight:1 - 3kg(2 - 7 lb)",
@@ -111,7 +111,7 @@
           {
             "id":10,
             "name":"Dachshund",
-            "image":"https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTbX4kyAKSWkOT_amdu2gC9C2RKjaE6ZQrnLOpK1XSNy41NC0cSZw6eVVBW4lPAAJe_YcF2UAvDhp8pQxc",         
+            "image_url":"https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTbX4kyAKSWkOT_amdu2gC9C2RKjaE6ZQrnLOpK1XSNy41NC0cSZw6eVVBW4lPAAJe_YcF2UAvDhp8pQxc",         
             "description":[
               "height:46 to 56cm(18 to 22 in)",
               "weight:7 - 14 kg(16 - 32 lb)",
@@ -123,7 +123,7 @@
           {
             "id":11,
             "name":"Samoyed",
-            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZJZJjhoHkNhOGEJbL8addy0YI6D39kPbwhg&usqp=CAU",
+            "image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZJZJjhoHkNhOGEJbL8addy0YI6D39kPbwhg&usqp=CAU",
             "description":[
               "height:46 to 56cm(18 to 22 in)",
               "weight:16 - 30kg(18 - 22 in)",
@@ -135,7 +135,7 @@
           {
             "id":12,
             "name":"Shiba Inu",
-            "image":"https://media-be.chewy.com/wp-content/uploads/2021/05/27135654/Shiba-Inu_FeaturedImage-1024x615.jpg",
+            "image_url":"https://media-be.chewy.com/wp-content/uploads/2021/05/27135654/Shiba-Inu_FeaturedImage-1024x615.jpg",
             "description":[
               "height:33 to 43cm(13 to 17 in)",
               "weight:8 - 10 kg(18 22 lb)",
