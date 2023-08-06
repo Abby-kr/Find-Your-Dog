@@ -58,3 +58,57 @@ a.active,a:hover{
 #home p{
     margin: 30px;
 }
+#getstarted{
+    background-color: #1c87c9;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    padding: 20px 34px;
+    text-decoration: none;
+    /* display: inline-block; */
+    font-size: 30px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+#getstarted:hover{
+transition: .5s;
+background-color: aqua;
+}
+.dogcards{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.card{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 25px 35px;
+    margin: 15px;
+    width: 25%;
+    border-color: #000;
+}
+.like-button{
+    background-color: #1c87c9;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 6px 8px;
+    text-decoration: none;
+    font-size: 30px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.section_header{
+    text-align: center;
+    font-size: 50px;
+}
+#about{
+    padding: 100px;
+    margin: 50px;
+}
+.about_innertext p{
+    padding: 40px;
+    margin: 25px;
+    font-size: 28px;
+    font-weight: 400;
+}
